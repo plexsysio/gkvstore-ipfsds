@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/google/uuid v1.3.0
-	github.com/ipfs/go-datastore v0.5.0
+	github.com/ipfs/go-datastore v0.5.1
 	github.com/plexsysio/gkvstore v0.0.0-20211118085618-aa2812d0ec8d
 )
 
